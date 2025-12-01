@@ -2,3 +2,8 @@ body {
     background-color: rgb(90, 116, 90);
     color: rgb(228, 225, 202);
 }
+
+a{
+    text-decoration: none;
+    color: inherit;
+}

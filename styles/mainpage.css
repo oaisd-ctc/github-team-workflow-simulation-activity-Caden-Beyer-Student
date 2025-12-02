@@ -1,0 +1,20 @@
+body{
+    color: rgb(70, 79, 202);
+    background-color: rgb(27, 128, 128);
+}
+
+header {
+    text-align: center;
+}
+
+header > a {
+margin: auto;
+padding : 20px;
+text-decoration: none;
+color: inherit;
+}
+
+p{
+    text-align: center;
+
+}
